@@ -1,0 +1,1 @@
+from .dataclass_from_model import strawberry_dataclass_from_model
